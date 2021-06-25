@@ -1,7 +1,7 @@
 # 🐍💹 Forecasting Yen 💱🐍
 
-[Time Series Analysis](https://github.com/jdfwsp/forecasting_yen/blob/main/Code/time_series_analysis.ipynb)
-[Regression Analysis](https://github.com/jdfwsp/forecasting_yen/blob/main/Code/regression_analysis.ipynb)
+* [Time Series Analysis](https://github.com/jdfwsp/forecasting_yen/blob/main/Code/time_series_analysis.ipynb)
+* [Regression Analysis](https://github.com/jdfwsp/forecasting_yen/blob/main/Code/regression_analysis.ipynb)
 
 ![Settle Price Yen](Resources/settle_yen.png)
 ![Settle Price vs. Trend](Resources/settle_v_trend.png)
