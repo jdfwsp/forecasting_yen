@@ -1,5 +1,8 @@
 # 🐍💹 Forecasting Yen 💱🐍
 
+[Time Series Analysis](https://github.com/jdfwsp/forecasting_yen/blob/main/Code/time_series_analysis.ipynb)
+[Regression Analysis](https://github.com/jdfwsp/forecasting_yen/blob/main/Code/regression_analysis.ipynb)
+
 ![Settle Price Yen](Resources/settle_yen.png)
 ![Settle Price vs. Trend](Resources/settle_v_trend.png)
 ![Noise](Resources/noise.png)
@@ -15,6 +18,6 @@ I feel confident using these models to inform my trading decision.
 ![In-Sample Performance](Resources/in_sample.png)
 
 This model performs slightly better on In-Sample data:
-MSE: 0.0263 (In) vs. 0.0287 (Out)
-RMSE: 0.1622 (In) vs. 0.1693 (Out)
+* MSE: 0.0263 (In) vs. 0.0287 (Out)
+* RMSE: 0.1622 (In) vs. 0.1693 (Out)
 
